@@ -20,6 +20,9 @@ For check the domain mx and verify email exits you must have the `pyDNS` package
 
     pip install pyDNS
 
+    #For python3 run this: 
+    pip3 install py3dns 
+
 
 USAGE
 =====
